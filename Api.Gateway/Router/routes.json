@@ -1,0 +1,23 @@
+{
+  "routes": [
+    {
+      "endpoint": "/servicea/isalive",
+      "destination": {
+        "endpoint": "/isalive",
+        "requiresAuthentication": "false",
+        "requiresMemberId": "false"
+      }
+    },
+    {
+      "endpoint": "/servicea",
+      "destination": {
+        "requiresAuthentication": "true",
+        "requiresMemberId": "true"
+      }
+    }
+  ],
+  "coreApiUrl": "http://localhost:50458",
+  "authenticationService": {
+    "url": "https://myservicedomain.com/identity/token"
+  }
+}

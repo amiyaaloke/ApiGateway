@@ -1,0 +1,24 @@
+{
+  "routes": [
+    {
+      "endpoint": "/rootEndpoint/endpoint1",
+      "destination": {
+        "url": "http://newbackendserviceurl.com",
+        "endpoint": "/endpoint1",
+        "requiresAuthentication": "false",
+        "requiresMemberId": "false"
+      }
+    },
+    {
+      "endpoint": "/rootEndpoint",
+      "destination": {
+        "requiresAuthentication": "true",
+        "requiresMemberId": "true"
+      }
+    }
+  ],
+  "backendServiceApiUrl": "http://backendserviceurl.com",
+  "authenticationService": {
+    "url": "https://authurl.com/identity/token"
+  }
+}

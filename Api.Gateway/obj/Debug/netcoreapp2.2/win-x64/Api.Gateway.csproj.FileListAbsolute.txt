@@ -1,0 +1,17 @@
+C:\dev\mywork\ApiGateway\Api.Gateway\bin\Debug\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\dev\mywork\ApiGateway\Api.Gateway\bin\Debug\netcoreapp2.2\win-x64\hostfxr.dll
+C:\dev\mywork\ApiGateway\Api.Gateway\bin\Debug\netcoreapp2.2\win-x64\Api.Gateway.exe
+C:\dev\mywork\ApiGateway\Api.Gateway\bin\Debug\netcoreapp2.2\win-x64\Api.Gateway.deps.json
+C:\dev\mywork\ApiGateway\Api.Gateway\bin\Debug\netcoreapp2.2\win-x64\Api.Gateway.runtimeconfig.json
+C:\dev\mywork\ApiGateway\Api.Gateway\bin\Debug\netcoreapp2.2\win-x64\Api.Gateway.runtimeconfig.dev.json
+C:\dev\mywork\ApiGateway\Api.Gateway\bin\Debug\netcoreapp2.2\win-x64\Api.Gateway.dll
+C:\dev\mywork\ApiGateway\Api.Gateway\bin\Debug\netcoreapp2.2\win-x64\Api.Gateway.pdb
+C:\dev\mywork\ApiGateway\Api.Gateway\obj\Debug\netcoreapp2.2\win-x64\Api.Gateway.csprojAssemblyReference.cache
+C:\dev\mywork\ApiGateway\Api.Gateway\obj\Debug\netcoreapp2.2\win-x64\Api.Gateway.csproj.CoreCompileInputs.cache
+C:\dev\mywork\ApiGateway\Api.Gateway\obj\Debug\netcoreapp2.2\win-x64\Api.Gateway.RazorAssemblyInfo.cache
+C:\dev\mywork\ApiGateway\Api.Gateway\obj\Debug\netcoreapp2.2\win-x64\Api.Gateway.RazorAssemblyInfo.cs
+C:\dev\mywork\ApiGateway\Api.Gateway\obj\Debug\netcoreapp2.2\win-x64\Api.Gateway.AssemblyInfoInputs.cache
+C:\dev\mywork\ApiGateway\Api.Gateway\obj\Debug\netcoreapp2.2\win-x64\Api.Gateway.AssemblyInfo.cs
+C:\dev\mywork\ApiGateway\Api.Gateway\obj\Debug\netcoreapp2.2\win-x64\Api.Gateway.RazorTargetAssemblyInfo.cache
+C:\dev\mywork\ApiGateway\Api.Gateway\obj\Debug\netcoreapp2.2\win-x64\Api.Gateway.dll
+C:\dev\mywork\ApiGateway\Api.Gateway\obj\Debug\netcoreapp2.2\win-x64\Api.Gateway.pdb
